@@ -1,7 +1,3 @@
-FINANCIAL DATASET ANALYSIS
-
-Here are five key learnings from your project on an Excel dashboard for Financial Data Analysis that you can include on your resume:
-
 Data Integration and Cleaning:
 
 Successfully integrated diverse financial data sources into a unified Excel dashboard, showcasing proficiency in data consolidation and organization.
